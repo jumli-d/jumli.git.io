@@ -1,0 +1,38 @@
+#para{
+   position: relative;
+    left: 400px;
+    font-weight: bold;
+    font-size: larger;
+    top: 50px;
+    
+}
+#but{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left:290px;
+    top:100px;
+    background-color: blue;
+    cursor: pointer;
+}
+#no{
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    left: 500px;
+    top: 100px;
+    background-color: blue;
+}
+#no:hover{
+    left: 900px;
+    cursor: pointer;
+    background-color: blue;
+}
+#soon{
+    position: relative;
+    top: 500px;
+    left: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
